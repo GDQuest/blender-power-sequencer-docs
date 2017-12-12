@@ -11,7 +11,7 @@ The cut and trim tool has two main modes:
 
 #### Cut a single strip at a time
 
-![Cut strip GIF](./gifs/mouse-cut-single-strip.gif)
+![Cut strip GIF](./img/mouse-cut-single-strip.gif)
 
 1. Place the mouse cursor over the strip to cut
 2. Press <kbd>Ctrl</kbd> <kbd>Action Mouse</kbd>
@@ -20,7 +20,7 @@ The cut and trim tool has two main modes:
 
 #### Cut all strips under the time cursor
 
-![Cut all strips GIF](./gifs/mouse-cut-all.gif)
+![Cut all strips GIF](./img/mouse-cut-all.gif)
 
 1. Place the mouse cursor on the sequencer, without hovering any strips
 2. Press <kbd>Ctrl</kbd> <kbd>Action Mouse</kbd>
@@ -33,7 +33,7 @@ You can also use this operator to cut gaps between strips. Hover a gap and press
 
 #### Trim a single strip at a time
 
-![Trim strip GIF](./gifs/mouse-trim-single-strip.gif)
+![Trim strip GIF](./img/mouse-trim-single-strip.gif)
 
 1. Place the mouse cursor over the strip that you want to cut
 2. Press <kbd>Ctrl</kbd> <kbd>Select Mouse</kbd>
