@@ -40,14 +40,16 @@ You can also use this operator to cut gaps between strips. Hover a gap and press
 
 #### Trim all strips
 
-![TODO - Trim all strips GIF]()
+![Trim all strips GIF](./img/mouse-trim-all-strips.gif)
 
 1. Place the mouse cursor on the sequencer, without hovering on any strips
 2. Press <kbd>Ctrl</kbd> <kbd>Select Mouse</kbd>
 
 To always trim in **time cursor** mode, press <kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>Action Mouse</kbd> instead.
 
-keyobard shortcuts are the quickest way to activate these operations, but they also can be accessed by the [operator search pop-up menu](https://docs.blender.org/manual/en/dev/interface/controls/templates/operator_search.html).
+---
+
+Keyobard shortcuts are the quickest way to activate these operations, but they also can be accessed by the [operator search pop-up menu](https://docs.blender.org/manual/en/dev/interface/controls/templates/operator_search.html).
 
 
 ## Toggle Mute strips
