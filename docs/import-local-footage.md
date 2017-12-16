@@ -1,4 +1,4 @@
-## Import local footage <small><kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>I</kbd></small>
+## Import local footage
 
 Imports all images, videos and audios from folders named respectively: `img`, `video` and `audio`.
 
@@ -6,9 +6,6 @@ Imports all images, videos and audios from folders named respectively: `img`, `v
 
 1. Create folders named `img`, `video` and `audio` inside your Blender project folder (where your *.blend* file is)
 2. Put your source images, videos and audio files in the corresponding folders
-3. In Blender:
-   1. Press <kbd>SPACE</kbd>
-   2. Type `import`
-   3. Select `PS.Import Local Footage` and press <kbd>ENTER</kbd>
+3. In Blender, press <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>I</kbd> (shortcut for `PS.Import local footage` operator)
 
 *You must save your Blender project before you use this feature.*
