@@ -31,6 +31,11 @@ See [Import local footage](./docs/import-local-footage.md) and [Cut and Trim wit
 
 If you need more info, a review, or help to record the video demo, count on us! You can open an issue on GitHub, or contact [ GDquest on Twitter ](https://twitter.com/NathanGDquest).
 
+## Helpful snippets
+
+Regex to add `kbd` tags around keyboard shortcuts:
+
+- Emacs sed command -> `s/\( ?\(Shift\|Ctrl\|Alt\|Action Mouse\|Select Mouse\|F[0-9]\|[A-Z0-9]\) ?\)/<kbd>\2<\/kbd>/g`
 
 ## Credits
 
