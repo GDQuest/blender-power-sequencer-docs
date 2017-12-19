@@ -6,7 +6,7 @@ Fade-in and fade-out are gradual opacity transitions.
 
 > Placeholder for video/add-fadein-fadeout.mp4
 
-1. Select one or more strips, then 
+1. Select one or more strips
 2. Press <kbd>f</kbd> 
 
 ### Add fade-in
