@@ -51,6 +51,15 @@ To always trim in **time cursor** mode, press <kbd>Ctrl</kbd><kbd>Shift</kbd><kb
 
 Keyobard shortcuts are the quickest way to activate these operations, but they also can be accessed by the [operator search pop-up menu](https://docs.blender.org/manual/en/dev/interface/controls/templates/operator_search.html).
 
+## Trim to the closest cuts and cut the gap
+
+Auto-trim a strip to the closest surrounding cuts, leave some margin and remove the newly formed gap.
+
+> Placeholder for the video demo
+
+1. Press <kbd>Shift</kbd><kbd>Alt</kbd><kbd>Action Mouse</kbd> where you want to cut on the sequencer. You don't need to click on a strip in particular.
+
+*Use this tool when you've edited some audio out and you're left with extra footage you want to remove. It finds the closest cuts around the time cursor, cuts and trims the strips it overlaps up to the surrounding cuts and it leaves a few frames on either side.*
 
 ## Toggle Mute strips
 
