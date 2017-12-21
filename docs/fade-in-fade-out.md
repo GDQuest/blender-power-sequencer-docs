@@ -34,8 +34,8 @@ By default `PS.Fade strips` will use the *Fade-in*, but you can also use other t
 
 1. Select one or more strips
 2. Use the `PS.Fade strips operator` (<kbd>Ctrl</kbd><kbd>f</kbd>)
-4. Press <kbd>F6</kbd> to access operator properties
-5. Change `Fade Type`
+3. Press <kbd>F6</kbd> to access operator properties
+4. Change `Fade Type`
 
 ### Techniques
 
@@ -45,7 +45,7 @@ By default `PS.Fade strips` will use the *Fade-in*, but you can also use other t
     1. Press <kbd>Shift</kbd><kbd>a</kbd> 
     2. Select *Effect Strip -> Color*
 2. Select the color strip
-3. Adjust the length of the color strip
-4. Set blend to alpha over
-5. Set the desired max opacity (e.g. 0.5)
+3. Set blend to alpha over
+4. Adjust the length of the color strip
+5. Adjust the opacity (this value is used as the max opacity of the strip, so pick a value < 1.0)
 6. Press <kbd>f</kbd> 
