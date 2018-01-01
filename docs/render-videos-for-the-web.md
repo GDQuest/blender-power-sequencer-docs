@@ -4,6 +4,8 @@ Renders a video using the preset options specified in the preferences.
 
 ### Render the video 
 
+> Placeholder for video/render-video-for-the-web.mp4
+
 1. Place the mouse cursor over the *Video Sequencer Editor*
 2. Press <kbd>Alt</kbd><kbd>F12</kbd> (shortcut for `PS.Render video for the web` operator)
 
