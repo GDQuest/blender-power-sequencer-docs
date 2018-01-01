@@ -41,7 +41,7 @@ Regex to add `kbd` tags around keyboard shortcuts:
 
 Online docs:
 
-- [ Davide Cristi ](https://github.com/davcri)
+- [ Davide Cristini ](https://github.com/davcri)
 - Nathan Lovato
 
 Videos:
