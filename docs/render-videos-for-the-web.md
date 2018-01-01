@@ -1,10 +1,10 @@
 ## Render videos for the web
 
-Applies a rendering preset (specified in the preferences) and starts the rendering.
+Renders a video using the preset options specified in the preferences.
 
 ### Render the video 
 
-1. Place the mouse cursor over the Video Sequencer Editor
+1. Place the mouse cursor over the *Video Sequencer Editor*
 2. Press <kbd>Alt</kbd><kbd>F12</kbd> (shortcut for `PS.Render video for the web` operator)
 
 Blender uses only one CPU core for the rendering. This means that 
