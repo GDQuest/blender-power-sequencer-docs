@@ -1,6 +1,6 @@
 ## Cut and Trim with the Mouse
 
-You can cut and trim strips with mouse clicks using the add-on.
+You can cut and trim strips with mouse clicks using Power Sequencer.
 
 The cut and trim tool has two main modes:
 
@@ -76,7 +76,7 @@ It's useful when you're editing audio separately from the video which is common 
 
 You can resize mute strips to add space between 2 other strips. Grab the mute sequence's handle, and keep the alt key down to ripple the edit.
 
-Want to shorten it instead? Mouse trim it with Ctrl Right Click, and let Power Sequencer remove the gap.
+Want to shorten it instead? Mouse trim it with <kbd>Ctrl</kbd><kbd>Select Mouse</kbd>, and let Power Sequencer remove the gap.
 
 #### Add a muted sound strip to leave some space in your edits
 

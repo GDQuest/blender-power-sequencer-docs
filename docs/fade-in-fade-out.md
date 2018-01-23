@@ -40,6 +40,9 @@ By default `PS.Fade strips` will use the *Fade-in*, but you can also use other t
 ### Techniques
 
 #### Dim a strip
+When you need to show an image (or a video) on top of another, it's handy to dim the underlying content: in this way you increase image contrast and you will attract viewer's attention on the new overlay content.
+
+To dim a strip with Power Sequencer: 
 
 1. Add a color strip above on che channel above the strip you want to dim
     1. Press <kbd>Shift</kbd><kbd>a</kbd> 

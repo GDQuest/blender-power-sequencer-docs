@@ -1,6 +1,9 @@
 ## Crossfades
 
-Crossfades or dissolves are smooth transitions from one video or image strip to another. To achieve a crossfade in Blender you add a cross or gamma cross effect strip that stacks on top of two video or image strips.
+Crossfades or dissolves are smooth transitions from one video or image strip to another. 
+
+To achieve a crossfade in Blender you add a cross or gamma cross effect strip that stacks on top of two video or image strips.
+Power Sequencer makes it easier to add and manipulate crossfades with the following operators and shortcuts.
 
 ### Add a crossfade
 
